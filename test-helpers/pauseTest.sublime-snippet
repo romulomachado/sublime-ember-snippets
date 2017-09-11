@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+pauseTest();
+]]></content>
+  <tabTrigger>pause</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

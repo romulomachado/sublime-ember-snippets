@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+andThen(() => {
+  ${1}
+});
+]]></content>
+  <tabTrigger>andThen</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

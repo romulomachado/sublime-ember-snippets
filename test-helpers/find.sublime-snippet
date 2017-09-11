@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+find('${1:selector}', '${2:context}');
+]]></content>
+  <tabTrigger>find</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
