@@ -38,3 +38,7 @@ Ember.js ES6, Ember Data, Mirage & Handlebars snippets for Sublime Text editor
     * [observer](/object#observer)
     * [set](/object#set)
     * [super](/object#super)
+* [Ember.Route](/route)
+    * [afterModel](/route#after)
+    * [model](/route#model)
+    * [setupController](/route#setupC)

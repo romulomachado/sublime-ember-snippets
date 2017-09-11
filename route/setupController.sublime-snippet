@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+setupController(controller, model) {
+  this._super(controller, model);
+  ${1}
+},
+]]></content>
+  <tabTrigger>setupC</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

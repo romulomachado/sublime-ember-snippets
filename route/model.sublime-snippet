@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+model(params = {}) {
+  return this.store.query('${1}', params);
+},
+]]></content>
+  <tabTrigger>model</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
