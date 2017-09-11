@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+actions: {
+  ${1:// body}
+}
+]]></content>
+  <tabTrigger>actions</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

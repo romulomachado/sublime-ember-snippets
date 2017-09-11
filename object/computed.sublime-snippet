@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+computed('${1:property}', function() {
+  ${2:// body}
+}),
+]]></content>
+  <tabTrigger>computed</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

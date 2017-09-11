@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+this._super(...arguments);
+]]></content>
+  <tabTrigger>super</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

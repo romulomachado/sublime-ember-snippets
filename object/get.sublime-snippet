@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+"${1:this}.get('${2}');
+]]></content>
+  <tabTrigger>get</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

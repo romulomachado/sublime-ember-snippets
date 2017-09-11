@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+inject.service(${1}),
+]]></content>
+  <tabTrigger>inject</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
