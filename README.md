@@ -8,6 +8,9 @@ Ember.js ES6, Ember Data, Mirage & Handlebars snippets for Sublime Text editor
 
 ## Usage
 
+* [Ember](/ember)
+    * [import Ember from ember](/ember#ime)
+    * [const { } = Ember](/ember#ce)
 * [Ember.Component](/component)
     * [didDestroyElement](/component#diddestroyelement)
     * [didInsertElement](/component#didinsertelement)

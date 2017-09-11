@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import Ember from 'ember';
+
+const { ${1} } = Ember;
+]]></content>
+  <tabTrigger>imE</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
