@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+didUpdateAttrs() {
+  this._super(...arguments);
+  ${1}
+}
+]]></content>
+  <tabTrigger>didUpdateAttrs</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

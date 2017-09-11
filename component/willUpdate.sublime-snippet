@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+willUpdate() {
+  this._super(...arguments);
+  ${1}
+}
+]]></content>
+  <tabTrigger>willUpdate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

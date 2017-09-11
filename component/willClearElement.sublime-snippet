@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+willClearElement() {
+  this._super(...arguments);
+  ${1}
+}
+]]></content>
+  <tabTrigger>willClearElement</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

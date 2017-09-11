@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+didInsertElement() {
+  this._super(...arguments);
+  ${1}
+}
+]]></content>
+  <tabTrigger>didInsertElement</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+didDestroyElement() {
+  this._super(...arguments);
+  ${1}
+}
+]]></content>
+  <tabTrigger>didDestroyElement</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
