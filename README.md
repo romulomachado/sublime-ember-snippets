@@ -4,7 +4,13 @@ Ember.js ES6, Ember Data, Mirage & Handlebars snippets for Sublime Text editor
 
 ## Installation
 
-// TODO: submit the package to PackageControl.io
+* Clone this repo:
+
+    ```bash
+    git clone git@github.com:romulomachado/sublime-ember-snippets.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/sublime-ember-snippets
+    ```
+
+* Restart ST.
 
 ## Usage
 
