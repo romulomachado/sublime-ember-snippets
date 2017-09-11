@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+this.store.queryRecord('${1:model}', { ${2:queryKey}: ${3:queryValue}});
+]]></content>
+  <tabTrigger>qRecord</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

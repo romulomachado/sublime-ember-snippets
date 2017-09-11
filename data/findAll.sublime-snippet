@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+this.store.findAll('${1:model}');
+]]></content>
+  <tabTrigger>fAll</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

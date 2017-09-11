@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+this.store.query('${1:model}', { ${2:queryKey}: ${3:queryValue}});
+]]></content>
+  <tabTrigger>qAll</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

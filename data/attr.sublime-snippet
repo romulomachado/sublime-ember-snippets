@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+attr('${1:string}'),
+]]></content>
+  <tabTrigger>attr</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
