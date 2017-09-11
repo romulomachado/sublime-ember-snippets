@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:enumerable}.get('firstObject');
+]]></content>
+  <tabTrigger>first</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

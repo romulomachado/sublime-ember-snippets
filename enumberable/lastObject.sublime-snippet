@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:enumerable}.get('lastObject');
+]]></content>
+  <tabTrigger>last</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
