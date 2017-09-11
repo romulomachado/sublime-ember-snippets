@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+import DS from 'ember-data';
+
+const { Model } = DS;
+
+export default Model.extend({
+  ${1:// body}
+});
+]]></content>
+  <tabTrigger>model</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+import Ember from 'ember';
+
+const { Handlebars: { makeBoundHelper } } = Ember;
+
+export default makeBoundHelper(function() {
+  ${1:// body}
+});
+]]></content>
+  <tabTrigger>boundHelper</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

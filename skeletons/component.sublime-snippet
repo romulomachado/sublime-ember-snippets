@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+import Ember from 'ember';
+
+const { Component } = Ember;
+
+export default Component.extend({
+  ${1:// body}
+});
+]]></content>
+  <tabTrigger>component</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+import Ember from 'ember';
+
+const { Helper } = Ember;
+
+export default Helper.extend({
+  compute() {
+    ${1:// body}
+  }
+});
+]]></content>
+  <tabTrigger>helper</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

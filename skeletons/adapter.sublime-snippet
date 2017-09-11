@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+import DS from 'ember-data';
+
+const { RESTAdapter } = DS;
+
+export default RESTAdapter.extend({
+  ${1:// body}
+});
+]]></content>
+  <tabTrigger>adapter</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

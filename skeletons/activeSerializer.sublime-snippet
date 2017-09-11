@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+import DS from 'ember-data';
+
+const { ActiveModelSerializer } = DS;
+
+export default ActiveModelSerializer.extend({
+  ${1:// body}
+});
+]]></content>
+  <tabTrigger>activeSerializer</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

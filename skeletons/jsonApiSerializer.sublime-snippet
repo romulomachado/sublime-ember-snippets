@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+import DS from 'ember-data';
+
+const { JSONAPISerializer } = DS;
+
+export default JSONAPISerializer.extend({
+  ${1:// body}
+});
+]]></content>
+  <tabTrigger>jaSerializer</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

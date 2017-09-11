@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+import DS from 'ember-data';
+
+const { ActiveModelAdapter } = DS;
+
+export default ActiveModelAdapter.extend({
+  ${1:// body}
+});
+]]></content>
+  <tabTrigger>activeAdapter</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

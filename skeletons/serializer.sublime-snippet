@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+import DS from 'ember-data';
+
+const { RESTSerializer } = DS;
+
+export default RESTSerializer.extend({
+  ${1:// body}
+});
+]]></content>
+  <tabTrigger>serializer</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

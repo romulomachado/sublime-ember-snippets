@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+import Ember from 'ember';
+
+const { Route } = Ember;
+
+export default Route.extend({
+  model() {
+    ${1:// body}
+  }
+});
+]]></content>
+  <tabTrigger>route</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

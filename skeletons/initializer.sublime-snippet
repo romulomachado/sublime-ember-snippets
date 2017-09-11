@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+export default {
+  name: '${1:name}',
+
+  initialize() {
+    ${2:// body}
+  }
+};
+]]></content>
+  <tabTrigger>initializer</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

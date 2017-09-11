@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+export default function ${1:myUtility}() {
+  ${2:// body}
+};
+]]></content>
+  <tabTrigger>utility</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+import DS from 'ember-data';
+
+const { JSONAPIAdapter } = DS;
+
+export default JSONAPIAdapter.extend({
+  ${1:// body}
+});
+]]></content>
+  <tabTrigger>jaAdapter</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
