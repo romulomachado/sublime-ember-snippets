@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { fmt } from "@ember/string";
+]]></content>
+  <tabTrigger>imfmt</tabTrigger>
+  <description>import { fmt } from "@ember/string";</description>
+  <scope>source.js</scope>
+</snippet>

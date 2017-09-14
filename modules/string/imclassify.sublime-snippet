@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { classify } from "@ember/string";
+]]></content>
+  <tabTrigger>imclassify</tabTrigger>
+  <description>import { classify } from "@ember/string";</description>
+  <scope>source.js</scope>
+</snippet>

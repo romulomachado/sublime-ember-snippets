@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { loc } from "@ember/string";
+]]></content>
+  <tabTrigger>imloc</tabTrigger>
+  <description>import { loc } from "@ember/string";</description>
+  <scope>source.js</scope>
+</snippet>

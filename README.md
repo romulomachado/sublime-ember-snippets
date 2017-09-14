@@ -244,4 +244,18 @@ Ember.js ES6, Ember Data, Mirage & Handlebars snippets for Sublime Text editor
         * [imschedule](/modules#imschedule)
         * [imscheduleOnce](/modules#imscheduleonce)
         * [imthrottle](/modules#imthrottle)
-
+    * @ember/service
+        * [iminjectService](/modules#iminjectservice)
+        * [imservice](/modules#imservice)
+    * @ember/string
+        * [imcamelize](/modules#imcamelize)
+        * [imcapitalize](/modules#imcapitalize)
+        * [imclassify](/modules#imclassify)
+        * [imdasherize](/modules#imdasherize)
+        * [imdecamelize](/modules#imdecamelize)
+        * [imfmt](/modules#imfmt)
+        * [imhtmlSafe](/modules#imhtmlsafe)
+        * [imisHtmlSafe](/modules#imishtmlsafe)
+        * [imloc](/modules#imloc)
+        * [imunderscore](/modules#imunderscore)
+        * [imw](/modules#imw)
