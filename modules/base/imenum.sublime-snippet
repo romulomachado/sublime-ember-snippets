@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import Enumerable from "@ember/enumerable";
+]]></content>
+  <tabTrigger>imenum</tabTrigger>
+  <description>import Enumerable from "@ember/enumerable";</description>
+  <scope>source.js</scope>
+</snippet>

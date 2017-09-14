@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import \$ from "jquery";
+]]></content>
+  <tabTrigger>im$</tabTrigger>
+  <description>import \$ from "jquery";</description>
+  <scope>source.js</scope>
+</snippet>

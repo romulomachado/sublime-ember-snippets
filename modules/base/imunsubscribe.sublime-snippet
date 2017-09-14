@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { unsubscribe } from "@ember/instrumentation";
+]]></content>
+  <tabTrigger>imunsubscribe</tabTrigger>
+  <description>import { unsubscribe } from "@ember/instrumentation";</description>
+  <scope>source.js</scope>
+</snippet>

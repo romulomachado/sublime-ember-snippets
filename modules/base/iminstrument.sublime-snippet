@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { instrument } from "@ember/instrumentation";
+]]></content>
+  <tabTrigger>iminstrument</tabTrigger>
+  <description>import { instrument }</description>
+  <scope>source.js</scope>
+</snippet>
