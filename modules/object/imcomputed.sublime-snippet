@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { computed } from "@ember/object";
+]]></content>
+  <tabTrigger>imcomputed</tabTrigger>
+  <description>import { computed } from "@ember/object";</description>
+  <scope>source.js</scope>
+</snippet>

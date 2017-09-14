@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { none } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imnone</tabTrigger>
+  <description>import { none } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>
+

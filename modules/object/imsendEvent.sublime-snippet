@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { sendEvent } from "@ember/object/events";
+]]></content>
+  <tabTrigger>imsendEvent</tabTrigger>
+  <description>import { sendEvent } from "@ember/object/events";</description>
+  <scope>source.js</scope>
+</snippet>
+

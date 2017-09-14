@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import CoreObject from "@ember/object/core";
+]]></content>
+  <tabTrigger>imcoreObject</tabTrigger>
+  <description>import CoreObject from "@ember/object/core";</description>
+  <scope>source.js</scope>
+</snippet>

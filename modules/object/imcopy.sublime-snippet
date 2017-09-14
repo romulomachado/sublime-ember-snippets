@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { copy } from "@ember/object/internals";
+]]></content>
+  <tabTrigger>imcopy</tabTrigger>
+  <description>import { copy } from "@ember/object/internals";</description>
+  <scope>source.js</scope>
+</snippet>

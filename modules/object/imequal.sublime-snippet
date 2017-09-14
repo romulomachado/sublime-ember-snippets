@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { equal } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imequal</tabTrigger>
+  <description>import { equal } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>

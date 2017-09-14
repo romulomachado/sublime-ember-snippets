@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { removeObserver } from "@ember/object/observers";
+]]></content>
+  <tabTrigger>imremoveObserver</tabTrigger>
+  <description>import { removeObserver } from "@ember/object/observers";</description>
+  <scope>source.js</scope>
+</snippet>
+

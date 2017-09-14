@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { observer } from "@ember/object";
+]]></content>
+  <tabTrigger>imobserver</tabTrigger>
+  <description>import { observer } from "@ember/object";</description>
+  <scope>source.js</scope>
+</snippet>
+

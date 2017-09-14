@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+import { and } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imand</tabTrigger>
+  <description>import { and } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>
+
+

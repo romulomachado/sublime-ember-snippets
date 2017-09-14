@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import ComputedProperty from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imcomputedProperty</tabTrigger>
+  <description>import ComputedProperty from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>

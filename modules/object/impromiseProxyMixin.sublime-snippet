@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import PromiseProxyMixin from "@ember/object/promise-proxy-mixin";
+]]></content>
+  <tabTrigger>impromiseProxyMixin</tabTrigger>
+  <description>import PromiseProxyMixin from "@ember/object/promise-proxy-mixin";</description>
+  <scope>source.js</scope>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { setDiff } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imsetDiff</tabTrigger>
+  <description>import { setDiff } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>
+

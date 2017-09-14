@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { gte } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imgte</tabTrigger>
+  <description>import { gte } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>

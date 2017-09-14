@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { lt } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imlt</tabTrigger>
+  <description>import { lt } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>

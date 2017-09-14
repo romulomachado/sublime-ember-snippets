@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import EmberObject from "@ember/object";
+]]></content>
+  <tabTrigger>imobject</tabTrigger>
+  <description>import EmberObject from "@ember/object";</description>
+  <scope>source.js</scope>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import ObjectProxy from "@ember/object/proxy";
+]]></content>
+  <tabTrigger>imobjectProxy</tabTrigger>
+  <description>import ObjectProxy from "@ember/object/proxy";</description>
+  <scope>source.js</scope>
+</snippet>
+

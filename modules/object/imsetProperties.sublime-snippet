@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { setProperties } from "@ember/object";
+]]></content>
+  <tabTrigger>imsetProperties</tabTrigger>
+  <description>import { setProperties } from "@ember/object";</description>
+  <scope>source.js</scope>
+</snippet>
+

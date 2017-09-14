@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { set } from "@ember/object";
+]]></content>
+  <tabTrigger>imset</tabTrigger>
+  <description>import { set } from "@ember/object";</description>
+  <scope>source.js</scope>
+</snippet>
+

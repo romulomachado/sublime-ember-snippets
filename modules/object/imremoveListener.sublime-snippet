@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { removeListener } from "@ember/object/events";
+]]></content>
+  <tabTrigger>imremoveListener</tabTrigger>
+  <description>import { removeListener } from "@ember/object/events";</description>
+  <scope>source.js</scope>
+</snippet>
+

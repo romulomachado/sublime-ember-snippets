@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { mapBy } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>immapBy</tabTrigger>
+  <description>import { mapBy } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>

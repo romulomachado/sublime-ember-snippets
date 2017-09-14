@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { deprecatingAlias } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imdeprecatingAlias</tabTrigger>
+  <description>import { deprecatingAlias } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>
