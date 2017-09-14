@@ -102,4 +102,10 @@ Ember.js ES6, Ember Data, Mirage & Handlebars snippets for Sublime Text editor
         * [Resolver](/modules#imresolver)
         * [runLoadHooks](/modules#imrunloadhooks)
         * [setOwner](/modules#imsetowner)
-
+    * @ember/array
+        * [EmberArray](/modules#imarray)
+        * [ArrayProxy](/modules#imarrayproxy)
+        * [A](/modules#imemberarray)
+        * [isArray](/modules#imisarray)
+        * [makeArray](/modules#immakearray)
+        * [MutableArray](/modules#immutarray)

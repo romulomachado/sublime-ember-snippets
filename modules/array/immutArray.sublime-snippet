@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import MutableArray from "@ember/array/mutable";
+]]></content>
+  <tabTrigger>immutArray</tabTrigger>
+  <description>import MutableArray from "@ember/array/mutable";</description>
+  <scope>source.js</scope>
+</snippet>
