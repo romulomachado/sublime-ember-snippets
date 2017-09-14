@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { or } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imor</tabTrigger>
+  <description>import { or } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>
+

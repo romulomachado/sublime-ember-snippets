@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { hashSettled } from "rsvp";
+]]></content>
+  <tabTrigger>imrsvpHashSettled</tabTrigger>
+  <description>import { hashSettled } from "rsvp";</description>
+  <scope>source.js</scope>
+</snippet>

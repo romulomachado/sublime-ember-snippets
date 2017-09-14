@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { not } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imnot</tabTrigger>
+  <description>import { not } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>
+

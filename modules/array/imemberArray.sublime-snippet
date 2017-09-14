@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { A } from "@ember/array";
+]]></content>
+  <tabTrigger>imemberArray</tabTrigger>
+  <description>import { A } from "@ember/array";</description>
+  <scope>source.js</scope>
+</snippet>

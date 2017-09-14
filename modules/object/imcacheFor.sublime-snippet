@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { cacheFor } from "@ember/object/internals";
+]]></content>
+  <tabTrigger>imcacheFor</tabTrigger>
+  <description>import { cacheFor } from "@ember/object/internals";</description>
+  <scope>source.js</scope>
+</snippet>

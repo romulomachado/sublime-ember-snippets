@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import LinkComponent from "@ember/routing/link-component";
+]]></content>
+  <tabTrigger>imlinkComponent</tabTrigger>
+  <description>import LinkComponent from "@ember/routing/link-component";</description>
+  <scope>source.js</scope>
+</snippet>

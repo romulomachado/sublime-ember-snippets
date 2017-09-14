@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { filterBy } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imfilterBy</tabTrigger>
+  <description>import { filterBy } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>

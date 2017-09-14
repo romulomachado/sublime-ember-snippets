@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import EmberError from "@ember/error";
+]]></content>
+  <tabTrigger>imerr</tabTrigger>
+  <description>import EmberError from "@ember/error";</description>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { map } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>immap</tabTrigger>
+  <description>import { map } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>

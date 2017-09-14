@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { uniqBy } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imuniqBy</tabTrigger>
+  <description>import { uniqBy } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>
+

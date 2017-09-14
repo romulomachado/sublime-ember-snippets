@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { trySet } from "@ember/object";
+]]></content>
+  <tabTrigger>imtrySet</tabTrigger>
+  <description>import { trySet } from "@ember/object";</description>
+  <scope>source.js</scope>
+</snippet>
+

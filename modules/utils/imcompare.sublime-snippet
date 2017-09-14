@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { compare } from "@ember/utils";
+]]></content>
+  <tabTrigger>imcompare</tabTrigger>
+  <description>import { compare } from "@ember/utils";</description>
+  <scope>source.js</scope>
+</snippet>

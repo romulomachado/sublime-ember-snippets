@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { reset } from "@ember/instrumentation";
+]]></content>
+  <tabTrigger>imreset</tabTrigger>
+  <description>import { reset } from "@ember/instrumentation";</description>
+  <scope>source.js</scope>
+</snippet>

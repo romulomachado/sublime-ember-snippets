@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { warn } from "@ember/debug";
+]]></content>
+  <tabTrigger>imwarn</tabTrigger>
+  <description>import { warn } from "@ember/debug";</description>
+  <scope>source.js</scope>
+</snippet>

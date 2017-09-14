@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { bool } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imbool</tabTrigger>
+  <description>import { bool } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>

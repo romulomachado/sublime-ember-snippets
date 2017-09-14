@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { runLoadHooks } from "@ember/application";
+]]></content>
+  <tabTrigger>imrunLoadHooks</tabTrigger>
+  <description>import { runLoadHooks } from "@ember/application";</description>
+  <scope>source.js</scope>
+</snippet>

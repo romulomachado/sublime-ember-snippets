@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { defer } from "rsvp";
+]]></content>
+  <tabTrigger>imrsvpDefer</tabTrigger>
+  <description>import { defer } from "rsvp";</description>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { onLoad } from "@ember/application";
+]]></content>
+  <tabTrigger>imonLoad</tabTrigger>
+  <description>import { onLoad } from "@ember/application";</description>
+  <scope>source.js</scope>
+</snippet>

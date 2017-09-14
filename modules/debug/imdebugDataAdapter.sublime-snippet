@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import DataAdapter from "@ember/debug/data-adapter";
+]]></content>
+  <tabTrigger>imdebugDataAdapter</tabTrigger>
+  <description>import DataAdapter from "@ember/debug/data-adapter";</description>
+  <scope>source.js</scope>
+</snippet>

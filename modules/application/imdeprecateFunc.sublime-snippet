@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { deprecateFunc } from "@ember/application/deprecations";
+]]></content>
+  <tabTrigger>imdeprecateFunc</tabTrigger>
+  <description>import { deprecateFunc } from "@ember/application/deprecations";</description>
+  <scope>source.js</scope>
+</snippet>

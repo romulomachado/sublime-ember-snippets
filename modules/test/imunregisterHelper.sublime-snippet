@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { unregisterHelper } from "@ember/test";
+]]></content>
+  <tabTrigger>imunregisterHelper</tabTrigger>
+  <description>import { unregisterHelper } from "@ember/test";</description>
+  <scope>source.js</scope>
+</snippet>

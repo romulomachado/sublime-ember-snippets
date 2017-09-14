@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { run } from "@ember/runloop";
+]]></content>
+  <tabTrigger>imrun</tabTrigger>
+  <description>import { run } from "@ember/runloop";</description>
+  <scope>source.js</scope>
+</snippet>

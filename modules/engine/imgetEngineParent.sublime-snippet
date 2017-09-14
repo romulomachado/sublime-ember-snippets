@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { getEngineParent } from "@ember/engine";
+]]></content>
+  <tabTrigger>imgetEngineParent</tabTrigger>
+  <description>import { getEngineParent } from "@ember/engine";</description>
+  <scope>source.js</scope>
+</snippet>

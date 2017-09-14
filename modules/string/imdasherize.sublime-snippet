@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { dasherize } from "@ember/string";
+]]></content>
+  <tabTrigger>imdasherize</tabTrigger>
+  <description>import { dasherize } from "@ember/string";</description>
+  <scope>source.js</scope>
+</snippet>

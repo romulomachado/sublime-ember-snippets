@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { sort } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imsort</tabTrigger>
+  <description>import { sort } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>
+

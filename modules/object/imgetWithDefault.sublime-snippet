@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { getWithDefault } from "@ember/object";
+]]></content>
+  <tabTrigger>imgetWithDefault</tabTrigger>
+  <description>import { getWithDefault } from "@ember/object";</description>
+  <scope>source.js</scope>
+</snippet>

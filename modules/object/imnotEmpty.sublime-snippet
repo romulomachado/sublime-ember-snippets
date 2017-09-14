@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { notEmpty } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imnotEmpty</tabTrigger>
+  <description>import { notEmpty } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>
+

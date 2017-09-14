@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { reject } from "rsvp";
+]]></content>
+  <tabTrigger>imrsvpReject</tabTrigger>
+  <description>import { reject } from "rsvp";</description>
+  <scope>source.js</scope>
+</snippet>

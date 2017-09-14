@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { lte } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>imlte</tabTrigger>
+  <description>import { lte } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { min } from "@ember/object/computed";
+]]></content>
+  <tabTrigger>immin</tabTrigger>
+  <description>import { min } from "@ember/object/computed";</description>
+  <scope>source.js</scope>
+</snippet>
+

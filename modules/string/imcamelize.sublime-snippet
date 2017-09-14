@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { camelize } from "@ember/string";
+]]></content>
+  <tabTrigger>imcamelize</tabTrigger>
+  <description>import { camelize } from "@ember/string";</description>
+  <scope>source.js</scope>
+</snippet>

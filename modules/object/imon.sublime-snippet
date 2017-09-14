@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import { on } from "@ember/object/evented";
+]]></content>
+  <tabTrigger>imon</tabTrigger>
+  <description>import { on } from "@ember/object/evented";</description>
+  <scope>source.js</scope>
+</snippet>
+
