@@ -127,3 +127,14 @@ Ember.js ES6, Ember Data, Mirage & Handlebars snippets for Sublime Text editor
     * @ember/controller
         * [Controller](/modules#imcontroller)
         * [inject](/modules#iminjectcontroller)
+    * @ember/debug
+        * [assert](/modules#imassert)
+        * [ContainerDebugAdapter](/modules#imcontainerdebugadapter)
+        * [debug](/modules#imdebug)
+        * [DataAdapter](/modules#imdebugdataadapter)
+        * [inspect](/modules#iminspect)
+        * [registerDeprecationHandler](/modules#imregisterdeprecationhandler)
+        * [registerWarnHandler](/modules#imregisterwarnhandler)
+        * [runInDebug](/modules#imrunindebug)
+        * [warn](/modules#imwarn)
+

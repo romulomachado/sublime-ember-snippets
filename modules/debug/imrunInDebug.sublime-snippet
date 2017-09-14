@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { runInDebug } from "@ember/debug";
+]]></content>
+  <tabTrigger>imrunInDebug</tabTrigger>
+  <description>import { runInDebug } from "@ember/debug";</description>
+  <scope>source.js</scope>
+</snippet>

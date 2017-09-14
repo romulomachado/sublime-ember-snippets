@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { registerDeprecationHandler } from "@ember/debug";
+]]></content>
+  <tabTrigger>imregisterDeprecationHandler</tabTrigger>
+  <description>import { registerDeprecationHandler } from "@ember/debug";</description>
+  <scope>source.js</scope>
+</snippet>
