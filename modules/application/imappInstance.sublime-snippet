@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import ApplicationInstance from "@ember/application/instance";
+]]></content>
+  <tabTrigger>imappInstance</tabTrigger>
+  <description>import ApplicationInstance from "@ember/application/instance";</description>
+  <scope>source.js</scope>
+</snippet>

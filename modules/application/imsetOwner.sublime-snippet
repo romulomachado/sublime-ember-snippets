@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { setOwner } from "@ember/application";
+]]></content>
+  <tabTrigger>imsetOwner</tabTrigger>
+  <description>import { setOwner } from "@ember/application";</description>
+  <scope>source.js</scope>
+</snippet>

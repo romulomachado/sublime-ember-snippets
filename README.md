@@ -91,4 +91,15 @@ Ember.js ES6, Ember Data, Mirage & Handlebars snippets for Sublime Text editor
     * [triggerEvent](/test-helpers#trigger)
     * [visit](/test-helpers#visit)
     * [wait()](/test-helpers#wait)
+* [Ember Modules (RFC 176 :fire:)](/modules)
+    * @ember/application
+        * [Application](/modules#imapp)
+        * [ApplicationInstance](/modules#imappinstance)
+        * [deprecate](/modules#imdeprecate)
+        * [deprecateFunc](/modules#imdeprecatefunc)
+        * [getOwner](/modules#imgetowner)
+        * [onLoad](/modules#imonload)
+        * [Resolver](/modules#imresolver)
+        * [runLoadHooks](/modules#imrunloadhooks)
+        * [setOwner](/modules#imsetowner)
 
