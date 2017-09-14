@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import Controller from "@ember/controller";
+]]></content>
+  <tabTrigger>imcontroller</tabTrigger>
+  <description>import Controller from "@ember/controller";</description>
+  <scope>source.js</scope>
+</snippet>

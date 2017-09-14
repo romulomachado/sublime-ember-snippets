@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { inject } from "@ember/controller";
+]]></content>
+  <tabTrigger>iminjectController</tabTrigger>
+  <description>import { inject } from "@ember/controller";</description>
+  <scope>source.js</scope>
+</snippet>
