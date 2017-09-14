@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { isEmpty } from "@ember/utils";
+]]></content>
+  <tabTrigger>imisEmpty</tabTrigger>
+  <description>import { isEmpty } from "@ember/utils";</description>
+  <scope>source.js</scope>
+</snippet>

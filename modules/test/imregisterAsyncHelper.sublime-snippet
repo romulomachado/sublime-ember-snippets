@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { registerAsyncHelper } from "@ember/test";
+]]></content>
+  <tabTrigger>imregisterAsyncHelper</tabTrigger>
+  <description>import { registerAsyncHelper } from "@ember/test";</description>
+  <scope>source.js</scope>
+</snippet>

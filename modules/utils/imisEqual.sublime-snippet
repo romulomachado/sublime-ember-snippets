@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { isEqual } from "@ember/utils";
+]]></content>
+  <tabTrigger>imisEqual</tabTrigger>
+  <description>import { isEqual } from "@ember/utils";</description>
+  <scope>source.js</scope>
+</snippet>

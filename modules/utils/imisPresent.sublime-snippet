@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { isPresent } from "@ember/utils";
+]]></content>
+  <tabTrigger>imisPresent</tabTrigger>
+  <description>import { isPresent } from "@ember/utils";</description>
+  <scope>source.js</scope>
+</snippet>
