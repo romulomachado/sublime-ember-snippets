@@ -137,4 +137,7 @@ Ember.js ES6, Ember Data, Mirage & Handlebars snippets for Sublime Text editor
         * [registerWarnHandler](/modules#imregisterwarnhandler)
         * [runInDebug](/modules#imrunindebug)
         * [warn](/modules#imwarn)
-
+    * @ember/engine
+        * [Engine](/modules#imengine)
+        * [EngineInstance](/modules#imengineinst)
+        * [getEngineParent](/modules#imgetengineparent)

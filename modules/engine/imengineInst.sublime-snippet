@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import EngineInstance from "@ember/engine/instance";
+]]></content>
+  <tabTrigger>imengineInst</tabTrigger>
+  <description>import EngineInstance from "@ember/engine/instance";</description>
+  <scope>source.js</scope>
+</snippet>
