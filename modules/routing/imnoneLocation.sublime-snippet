@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import NoneLocation from "@ember/routing/none-location";
+]]></content>
+  <tabTrigger>imnoneLocation</tabTrigger>
+  <description>import NoneLocation from "@ember/routing/none-location";</description>
+  <scope>source.js</scope>
+</snippet>

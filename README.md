@@ -205,3 +205,13 @@ Ember.js ES6, Ember Data, Mirage & Handlebars snippets for Sublime Text editor
         * [imunion](/modules#imunion)
         * [imuniq](/modules#imuniq)
         * [imuniqBy](/modules#imuniqby)
+    * @ember/routing
+        * [imautoLocation](/modules#imautolocation)
+        * [imlinkComponent](/modules#imlinkcomponent)
+        * [imlocation](/modules#imlocation)
+        * [imnoneLocation](/modules#imnonelocation)
+        * [imroute](/modules#imroute)
+        * [imrouter](/modules#imrouter)
+        * [imroutingHash](/modules#imroutinghash)
+        * [imroutingHistory](/modules#imroutinghistory)
+

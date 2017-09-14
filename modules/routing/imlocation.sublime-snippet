@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import Location from "@ember/routing/location";
+]]></content>
+  <tabTrigger>imlocation</tabTrigger>
+  <description>import Location from "@ember/routing/location";</description>
+  <scope>source.js</scope>
+</snippet>

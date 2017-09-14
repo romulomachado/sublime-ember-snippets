@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import HashLocation from "@ember/routing/hash-location";
+]]></content>
+  <tabTrigger>imroutingHash</tabTrigger>
+  <description>import HashLocation from "@ember/routing/hash-location";</description>
+  <scope>source.js</scope>
+</snippet>
