@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import Checkbox from "@ember/component/checkbox";
+]]></content>
+  <tabTrigger>imcheckbox</tabTrigger>
+  <description>import Checkbox from "@ember/component/checkbox";</description>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import TextArea from "@ember/component/text-area";
+]]></content>
+  <tabTrigger>imtextArea</tabTrigger>
+  <description>import TextArea from "@ember/component/text-area";</description>
+  <scope>source.js</scope>
+</snippet>
