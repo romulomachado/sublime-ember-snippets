@@ -11,5 +11,6 @@ export default Route.extend({
 });
 ]]></content>
   <tabTrigger>route</tabTrigger>
+  <description>Route Skeleton</description>
   <scope>source.js</scope>
 </snippet>

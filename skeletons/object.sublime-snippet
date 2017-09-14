@@ -8,6 +8,7 @@ export default Object.extend({
   ${1:// body}
 });
 ]]></content>
-  <tabTrigger>service</tabTrigger>
+  <tabTrigger>object</tabTrigger>
+  <description>Object Skeleton</description>
   <scope>source.js</scope>
 </snippet>

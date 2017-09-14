@@ -9,5 +9,6 @@ export default {
 };
 ]]></content>
   <tabTrigger>initializer</tabTrigger>
+  <description>Initializer Skeleton</description>
   <scope>source.js</scope>
 </snippet>

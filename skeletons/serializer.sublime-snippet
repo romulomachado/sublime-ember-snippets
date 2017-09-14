@@ -9,5 +9,6 @@ export default RESTSerializer.extend({
 });
 ]]></content>
   <tabTrigger>serializer</tabTrigger>
+  <description>REST Serializer Skeleton</description>
   <scope>source.js</scope>
 </snippet>

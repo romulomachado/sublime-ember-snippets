@@ -11,5 +11,6 @@ export default Helper.extend({
 });
 ]]></content>
   <tabTrigger>helper</tabTrigger>
+  <description>Helper Skeleton</description>
   <scope>source.js</scope>
 </snippet>

@@ -9,5 +9,6 @@ export default Model.extend({
 });
 ]]></content>
   <tabTrigger>model</tabTrigger>
+  <description>Model Skeleton</description>
   <scope>source.js</scope>
 </snippet>

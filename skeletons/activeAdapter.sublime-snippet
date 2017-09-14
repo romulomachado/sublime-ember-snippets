@@ -9,5 +9,6 @@ export default ActiveModelAdapter.extend({
 });
 ]]></content>
   <tabTrigger>activeAdapter</tabTrigger>
+  <description>Active Model Adapter Skeleton</description>
   <scope>source.js</scope>
 </snippet>

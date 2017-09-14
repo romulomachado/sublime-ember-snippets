@@ -9,5 +9,6 @@ export default RESTAdapter.extend({
 });
 ]]></content>
   <tabTrigger>adapter</tabTrigger>
+  <description>REST Adapter Skeleton</description>
   <scope>source.js</scope>
 </snippet>

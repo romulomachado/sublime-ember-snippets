@@ -9,5 +9,6 @@ export default JSONAPIAdapter.extend({
 });
 ]]></content>
   <tabTrigger>jaAdapter</tabTrigger>
+  <description>JSON API Adapter Skeleton</description>
   <scope>source.js</scope>
 </snippet>

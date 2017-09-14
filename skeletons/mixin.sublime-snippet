@@ -8,6 +8,7 @@ export default Mixin.extend({
   ${1:// body}
 });
 ]]></content>
-  <tabTrigger>service</tabTrigger>
+  <tabTrigger>mixin</tabTrigger>
+  <description>Mixin Skeleton</description>
   <scope>source.js</scope>
 </snippet>

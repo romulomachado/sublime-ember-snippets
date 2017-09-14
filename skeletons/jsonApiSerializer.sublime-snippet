@@ -9,5 +9,6 @@ export default JSONAPISerializer.extend({
 });
 ]]></content>
   <tabTrigger>jaSerializer</tabTrigger>
+  <description>JSON API Serializer Skeleton</description>
   <scope>source.js</scope>
 </snippet>

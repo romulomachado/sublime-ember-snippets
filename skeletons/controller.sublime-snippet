@@ -9,5 +9,6 @@ export default Controller.extend({
 });
 ]]></content>
   <tabTrigger>controller</tabTrigger>
+  <description>Controller Skeleton</description>
   <scope>source.js</scope>
 </snippet>
