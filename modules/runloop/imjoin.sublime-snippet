@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { join } from "@ember/runloop";
+]]></content>
+  <tabTrigger>imjoin</tabTrigger>
+  <description>import { join } from "@ember/runloop";</description>
+  <scope>source.js</scope>
+</snippet>

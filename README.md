@@ -230,3 +230,18 @@ Ember.js ES6, Ember Data, Mirage & Handlebars snippets for Sublime Text editor
         * [imrsvpRace](/modules#imrsvprace)
         * [imrsvpReject](/modules#imrsvpreject)
         * [imrsvpResolve](/modules#imrsvpresolve)
+    * @ember/runloop
+        * [imbegin](/modules#imbegin)
+        * [imbind](/modules#imbind)
+        * [imcancel](/modules#imcancel)
+        * [imdebounce](/modules#imdebounce)
+        * [imend](/modules#imend)
+        * [imjoin](/modules#imjoin)
+        * [imlater](/modules#imlater)
+        * [imnext](/modules#imnext)
+        * [imonce](/modules#imonce)
+        * [imrun](/modules#imrun)
+        * [imschedule](/modules#imschedule)
+        * [imscheduleOnce](/modules#imscheduleonce)
+        * [imthrottle](/modules#imthrottle)
+
