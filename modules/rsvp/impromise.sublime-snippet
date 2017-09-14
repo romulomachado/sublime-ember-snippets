@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { Promise } from "rsvp";
+]]></content>
+  <tabTrigger>impromise</tabTrigger>
+  <description>import { Promise } from "rsvp";</description>
+  <scope>source.js</scope>
+</snippet>

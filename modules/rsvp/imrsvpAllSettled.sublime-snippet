@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { allSettled } from "rsvp";
+]]></content>
+  <tabTrigger>imrsvpAllSettled</tabTrigger>
+  <description>import { allSettled } from "rsvp";</description>
+  <scope>source.js</scope>
+</snippet>

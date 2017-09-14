@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { resolve } from "rsvp";
+]]></content>
+  <tabTrigger>imResolve</tabTrigger>
+  <description>import { resolve } from "rsvp";</description>
+  <scope>source.js</scope>
+</snippet>

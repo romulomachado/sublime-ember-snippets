@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import { denodeify } from "rsvp";
+]]></content>
+  <tabTrigger>imrsvpDenodeify</tabTrigger>
+  <description>import { denodeify } from "rsvp";</description>
+  <scope>source.js</scope>
+</snippet>
