@@ -4,5 +4,5 @@ import Evented from "@ember/object/evented";
 ]]></content>
   <tabTrigger>imevented</tabTrigger>
   <description>import Evented from "@ember/object/evented";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

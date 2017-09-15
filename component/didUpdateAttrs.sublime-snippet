@@ -6,5 +6,5 @@ didUpdateAttrs() {
 }
 ]]></content>
   <tabTrigger>didUpdateAttrs</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

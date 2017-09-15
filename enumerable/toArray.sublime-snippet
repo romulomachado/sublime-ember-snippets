@@ -3,5 +3,5 @@
 ${1:enumerable}.toArray();
 ]]></content>
   <tabTrigger>toArray</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

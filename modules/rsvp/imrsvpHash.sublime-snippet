@@ -4,5 +4,5 @@ import { hash } from "rsvp";
 ]]></content>
   <tabTrigger>imrsvpHash</tabTrigger>
   <description>import { hash } from "rsvp";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

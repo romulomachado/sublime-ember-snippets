@@ -4,6 +4,6 @@ import { observer } from "@ember/object";
 ]]></content>
   <tabTrigger>imobserver</tabTrigger>
   <description>import { observer } from "@ember/object";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

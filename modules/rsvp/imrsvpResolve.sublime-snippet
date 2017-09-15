@@ -4,5 +4,5 @@ import { resolve } from "rsvp";
 ]]></content>
   <tabTrigger>imResolve</tabTrigger>
   <description>import { resolve } from "rsvp";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

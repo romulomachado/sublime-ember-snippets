@@ -4,5 +4,5 @@ import Router from "@ember/routing/router";
 ]]></content>
   <tabTrigger>imrouter</tabTrigger>
   <description>import Router from "@ember/routing/router";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

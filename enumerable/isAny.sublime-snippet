@@ -3,5 +3,5 @@
 ${1:enumerable}.isAny('${2:property}', ${3:bool});
 ]]></content>
   <tabTrigger>isAny</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

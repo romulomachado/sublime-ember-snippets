@@ -4,5 +4,5 @@ import { empty } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>imempty</tabTrigger>
   <description>import { empty } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

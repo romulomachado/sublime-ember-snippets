@@ -3,5 +3,5 @@
 this.store.findAll('${1:model}');
 ]]></content>
   <tabTrigger>fAll</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

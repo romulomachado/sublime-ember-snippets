@@ -4,5 +4,5 @@ import { alias } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>imalias</tabTrigger>
   <description>import { alias } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -3,5 +3,5 @@
 ${1:enumerable}.isEvery('${2:property}', ${3:bool});
 ]]></content>
   <tabTrigger>isEvery</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -4,5 +4,5 @@ import { onLoad } from "@ember/application";
 ]]></content>
   <tabTrigger>imonLoad</tabTrigger>
   <description>import { onLoad } from "@ember/application";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

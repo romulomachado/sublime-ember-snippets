@@ -4,6 +4,6 @@ import { sendEvent } from "@ember/object/events";
 ]]></content>
   <tabTrigger>imsendEvent</tabTrigger>
   <description>import { sendEvent } from "@ember/object/events";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

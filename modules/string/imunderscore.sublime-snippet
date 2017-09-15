@@ -4,5 +4,5 @@ import { underscore } from "@ember/string";
 ]]></content>
   <tabTrigger>imunderscore</tabTrigger>
   <description>import { underscore } from "@ember/string";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

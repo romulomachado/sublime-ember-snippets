@@ -4,5 +4,5 @@ import { deprecate } from "@ember/application/deprecations";
 ]]></content>
   <tabTrigger>imdeprecate</tabTrigger>
   <description>import { deprecate } from "@ember/application/deprecations";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

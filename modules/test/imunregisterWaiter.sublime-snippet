@@ -4,5 +4,5 @@ import { unregisterWaiter } from "@ember/test";
 ]]></content>
   <tabTrigger>imunregisterWaiter</tabTrigger>
   <description>import { unregisterWaiter } from "@ember/test";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

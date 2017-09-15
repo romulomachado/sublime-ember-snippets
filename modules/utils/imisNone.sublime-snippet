@@ -4,5 +4,5 @@ import { isNone } from "@ember/utils";
 ]]></content>
   <tabTrigger>imisNone</tabTrigger>
   <description>import { isNone } from "@ember/utils";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

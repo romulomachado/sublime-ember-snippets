@@ -4,5 +4,5 @@ import { addListener } from "@ember/object/events";
 ]]></content>
   <tabTrigger>imaddListener</tabTrigger>
   <description>import { addListener } from "@ember/object/events";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -9,5 +9,5 @@ export default makeBoundHelper(function() {
 });
 ]]></content>
   <tabTrigger>boundHelper</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

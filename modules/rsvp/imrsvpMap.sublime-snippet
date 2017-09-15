@@ -4,5 +4,5 @@ import { map } from "rsvp";
 ]]></content>
   <tabTrigger>imrsvpMap</tabTrigger>
   <description>import { map } from "rsvp";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

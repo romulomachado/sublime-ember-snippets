@@ -4,5 +4,5 @@ import { htmlSafe } from "@ember/string";
 ]]></content>
   <tabTrigger>imhtmlSafe</tabTrigger>
   <description>import { htmlSafe } from "@ember/string";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

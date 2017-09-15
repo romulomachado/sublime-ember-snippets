@@ -4,5 +4,5 @@ import { aliasMethod } from "@ember/object";
 ]]></content>
   <tabTrigger>imaliasMethod</tabTrigger>
   <description>import { aliasMethod } from "@ember/object";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

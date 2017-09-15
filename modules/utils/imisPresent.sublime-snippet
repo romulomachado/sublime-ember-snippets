@@ -4,5 +4,5 @@ import { isPresent } from "@ember/utils";
 ]]></content>
   <tabTrigger>imisPresent</tabTrigger>
   <description>import { isPresent } from "@ember/utils";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -4,5 +4,5 @@ import { unsubscribe } from "@ember/instrumentation";
 ]]></content>
   <tabTrigger>imunsubscribe</tabTrigger>
   <description>import { unsubscribe } from "@ember/instrumentation";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

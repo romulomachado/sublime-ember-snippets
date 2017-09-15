@@ -4,5 +4,5 @@ import { allSettled } from "rsvp";
 ]]></content>
   <tabTrigger>imrsvpAllSettled</tabTrigger>
   <description>import { allSettled } from "rsvp";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -3,5 +3,5 @@
 inject.service(${1}),
 ]]></content>
   <tabTrigger>inject</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

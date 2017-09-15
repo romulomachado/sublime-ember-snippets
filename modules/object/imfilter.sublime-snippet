@@ -4,5 +4,5 @@ import { filter } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>imfilter</tabTrigger>
   <description>import { filter } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

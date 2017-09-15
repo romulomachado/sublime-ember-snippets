@@ -4,5 +4,5 @@ import Component from "@ember/component";
 ]]></content>
   <tabTrigger>imcomponent</tabTrigger>
   <description>import Component from "@ember/component";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -4,5 +4,5 @@ import EmberError from "@ember/error";
 ]]></content>
   <tabTrigger>imerr</tabTrigger>
   <description>import EmberError from "@ember/error";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

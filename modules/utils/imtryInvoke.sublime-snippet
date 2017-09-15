@@ -4,5 +4,5 @@ import { tryInvoke } from "@ember/utils";
 ]]></content>
   <tabTrigger>imtryInvoke</tabTrigger>
   <description>import { tryInvoke } from "@ember/utils";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -4,5 +4,5 @@ import { gt } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>imgt</tabTrigger>
   <description>import { gt } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

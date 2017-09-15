@@ -4,5 +4,5 @@ import { match } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>immatch</tabTrigger>
   <description>import { match } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -3,5 +3,5 @@
 attr('${1:string}'),
 ]]></content>
   <tabTrigger>attr</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -4,6 +4,6 @@ import { setProperties } from "@ember/object";
 ]]></content>
   <tabTrigger>imsetProperties</tabTrigger>
   <description>import { setProperties } from "@ember/object";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

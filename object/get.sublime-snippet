@@ -3,5 +3,5 @@
 "${1:this}.get('${2}');
 ]]></content>
   <tabTrigger>get</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

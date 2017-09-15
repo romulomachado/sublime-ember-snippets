@@ -10,5 +10,5 @@ export default Object.extend({
 ]]></content>
   <tabTrigger>object</tabTrigger>
   <description>Object Skeleton</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

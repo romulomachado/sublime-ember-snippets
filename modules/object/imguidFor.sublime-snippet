@@ -4,5 +4,5 @@ import { guidFor } from "@ember/object/internals";
 ]]></content>
   <tabTrigger>imguidFor</tabTrigger>
   <description>import { guidFor } from "@ember/object/internals";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

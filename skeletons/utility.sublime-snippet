@@ -6,5 +6,5 @@ export default function ${1:myUtility}() {
 ]]></content>
   <tabTrigger>utility</tabTrigger>
   <description>Utility Skeleton</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

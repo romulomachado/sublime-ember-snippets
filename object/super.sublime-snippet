@@ -3,5 +3,5 @@
 this._super(...arguments);
 ]]></content>
   <tabTrigger>super</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

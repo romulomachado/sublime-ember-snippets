@@ -4,5 +4,5 @@ import ContainerDebugAdapter from "@ember/debug/container-debug-adapter";
 ]]></content>
   <tabTrigger>imcontainerDebugAdapter</tabTrigger>
   <description>import ContainerDebugAdapter from "@ember/debug/container-debug-adapter";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -4,6 +4,6 @@ import { reads } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>imreads</tabTrigger>
   <description>import { reads } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

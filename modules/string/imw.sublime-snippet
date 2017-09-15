@@ -4,5 +4,5 @@ import { w } from "@ember/string";
 ]]></content>
   <tabTrigger>imw</tabTrigger>
   <description>import { w } from "@ember/string";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -4,6 +4,6 @@ import { notEmpty } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>imnotEmpty</tabTrigger>
   <description>import { notEmpty } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

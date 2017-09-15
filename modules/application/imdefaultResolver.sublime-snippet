@@ -4,5 +4,5 @@ import GlobalsResolver from "@ember/application/globals-resolver";
 ]]></content>
   <tabTrigger>imdefaultResolver</tabTrigger>
   <description>import GlobalsResolver from "@ember/application/globals-resolver";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

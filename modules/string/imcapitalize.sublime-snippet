@@ -4,5 +4,5 @@ import { capitalize } from "@ember/string";
 ]]></content>
   <tabTrigger>imcapitalize</tabTrigger>
   <description>import { capitalize } from "@ember/string";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

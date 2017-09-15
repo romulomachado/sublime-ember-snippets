@@ -4,5 +4,5 @@ import { isEqual } from "@ember/utils";
 ]]></content>
   <tabTrigger>imisEqual</tabTrigger>
   <description>import { isEqual } from "@ember/utils";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

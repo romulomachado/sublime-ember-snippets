@@ -4,5 +4,5 @@ import Checkbox from "@ember/component/checkbox";
 ]]></content>
   <tabTrigger>imcheckbox</tabTrigger>
   <description>import Checkbox from "@ember/component/checkbox";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

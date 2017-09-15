@@ -4,5 +4,5 @@ import Engine from "@ember/engine";
 ]]></content>
   <tabTrigger>imengine</tabTrigger>
   <description>import Engine from "@ember/engine";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

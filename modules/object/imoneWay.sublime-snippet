@@ -4,6 +4,6 @@ import { oneWay } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>imoneWay</tabTrigger>
   <description>import { oneWay } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

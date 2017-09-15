@@ -3,5 +3,5 @@
 fillIn('${1:selector}', '${2:text}');
 ]]></content>
   <tabTrigger>fillIn</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

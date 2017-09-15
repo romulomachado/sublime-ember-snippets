@@ -3,5 +3,5 @@
 this.store.peekRecord('${1:model}', params.${1:model}_id);
 ]]></content>
   <tabTrigger>pRecord</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

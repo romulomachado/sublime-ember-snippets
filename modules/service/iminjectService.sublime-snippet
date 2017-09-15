@@ -4,5 +4,5 @@ import { inject } from "@ember/service";
 ]]></content>
   <tabTrigger>iminjectService</tabTrigger>
   <description>import { inject } from "@ember/service";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

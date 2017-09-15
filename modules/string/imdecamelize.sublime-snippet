@@ -4,5 +4,5 @@ import { decamelize } from "@ember/string";
 ]]></content>
   <tabTrigger>imdecamelize</tabTrigger>
   <description>import { decamelize } from "@ember/string";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

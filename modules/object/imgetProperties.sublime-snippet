@@ -4,5 +4,5 @@ import { getProperties } from "@ember/object";
 ]]></content>
   <tabTrigger>imgetProperties</tabTrigger>
   <description>import { getProperties } from "@ember/object";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

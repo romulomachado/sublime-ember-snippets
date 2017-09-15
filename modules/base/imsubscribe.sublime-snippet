@@ -4,5 +4,5 @@ import { subscribe } from "@ember/instrumentation";
 ]]></content>
   <tabTrigger>imsubscribe</tabTrigger>
   <description>import { subscribe } from "@ember/instrumentation";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -4,5 +4,5 @@ import { isBlank } from "@ember/utils";
 ]]></content>
   <tabTrigger>imisBlank</tabTrigger>
   <description>import { isBlank } from "@ember/utils";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

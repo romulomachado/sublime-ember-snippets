@@ -4,5 +4,5 @@ import { dasherize } from "@ember/string";
 ]]></content>
   <tabTrigger>imdasherize</tabTrigger>
   <description>import { dasherize } from "@ember/string";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -4,5 +4,5 @@ import { deprecateFunc } from "@ember/application/deprecations";
 ]]></content>
   <tabTrigger>imdeprecateFunc</tabTrigger>
   <description>import { deprecateFunc } from "@ember/application/deprecations";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

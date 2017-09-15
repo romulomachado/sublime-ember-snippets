@@ -4,6 +4,6 @@ import { readOnly } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>imreadOnly</tabTrigger>
   <description>import { readOnly } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

@@ -4,5 +4,5 @@ import { debug } from "@ember/debug";
 ]]></content>
   <tabTrigger>imdebug</tabTrigger>
   <description>import { debug } from "@ember/debug";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

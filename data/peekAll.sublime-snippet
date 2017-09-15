@@ -3,5 +3,5 @@
 this.store.peekAll('${1:model}');
 ]]></content>
   <tabTrigger>pAll</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

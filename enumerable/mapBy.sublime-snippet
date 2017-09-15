@@ -3,5 +3,5 @@
 ${1:enumerable}.mapBy('${2:property}');
 ]]></content>
   <tabTrigger>mapBy</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

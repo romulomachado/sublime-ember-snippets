@@ -6,5 +6,5 @@ didRender() {
 }
 ]]></content>
   <tabTrigger>didRender</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

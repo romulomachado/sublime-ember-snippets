@@ -3,5 +3,5 @@
 ${1:this}.set('${2}', ${3});
 ]]></content>
   <tabTrigger>set</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

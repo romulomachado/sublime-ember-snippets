@@ -4,5 +4,5 @@ import { collect } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>imcollect</tabTrigger>
   <description>import { collect } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

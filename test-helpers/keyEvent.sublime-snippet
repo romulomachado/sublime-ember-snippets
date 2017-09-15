@@ -3,5 +3,5 @@
 keyEvent('${1:selector}', '${2:type}', '${3:keyCode}');
 ]]></content>
   <tabTrigger>keyEvent</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

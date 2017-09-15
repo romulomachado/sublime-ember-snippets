@@ -4,5 +4,5 @@ import { isArray } from "@ember/array";
 ]]></content>
   <tabTrigger>imisArray</tabTrigger>
   <description>import { isArray } from "@ember/array";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

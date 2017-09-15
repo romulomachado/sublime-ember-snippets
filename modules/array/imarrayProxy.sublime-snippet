@@ -4,5 +4,5 @@ import ArrayProxy from "@ember/array/proxy";
 ]]></content>
   <tabTrigger>imarrayProxy</tabTrigger>
   <description>import ArrayProxy from "@ember/array/proxy";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

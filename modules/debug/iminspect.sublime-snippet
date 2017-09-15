@@ -4,5 +4,5 @@ import { inspect } from "@ember/debug";
 ]]></content>
   <tabTrigger>iminspect</tabTrigger>
   <description>import { inspect } from "@ember/debug";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

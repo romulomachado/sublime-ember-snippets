@@ -4,6 +4,6 @@ import { not } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>imnot</tabTrigger>
   <description>import { not } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

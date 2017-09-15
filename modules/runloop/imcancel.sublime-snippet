@@ -4,5 +4,5 @@ import { cancel } from "@ember/runloop";
 ]]></content>
   <tabTrigger>imcancel</tabTrigger>
   <description>import { cancel } from "@ember/runloop";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

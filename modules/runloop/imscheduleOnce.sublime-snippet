@@ -4,5 +4,5 @@ import { scheduleOnce } from "@ember/runloop";
 ]]></content>
   <tabTrigger>imscheduleOnce</tabTrigger>
   <description>import { scheduleOnce } from "@ember/runloop";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

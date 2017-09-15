@@ -6,5 +6,5 @@ willDestroyElement() {
 }
 ]]></content>
   <tabTrigger>willDestroyElement</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

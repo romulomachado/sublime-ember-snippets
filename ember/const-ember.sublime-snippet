@@ -3,5 +3,5 @@
 const { ${1} } = Ember;
 ]]></content>
   <tabTrigger>cE</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

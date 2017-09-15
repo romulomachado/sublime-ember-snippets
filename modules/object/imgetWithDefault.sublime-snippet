@@ -4,5 +4,5 @@ import { getWithDefault } from "@ember/object";
 ]]></content>
   <tabTrigger>imgetWithDefault</tabTrigger>
   <description>import { getWithDefault } from "@ember/object";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

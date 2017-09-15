@@ -3,5 +3,5 @@
 triggerEvent('${1:selector}', '${2:type}', '${3:options}');
 ]]></content>
   <tabTrigger>trigger</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

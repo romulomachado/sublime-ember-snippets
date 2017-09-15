@@ -4,5 +4,5 @@ import { once } from "@ember/runloop";
 ]]></content>
   <tabTrigger>imonce</tabTrigger>
   <description>import { once } from "@ember/runloop";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

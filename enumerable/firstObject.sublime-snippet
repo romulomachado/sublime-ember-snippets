@@ -3,5 +3,5 @@
 ${1:enumerable}.get('firstObject');
 ]]></content>
   <tabTrigger>first</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

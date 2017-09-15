@@ -4,5 +4,5 @@ import { all } from "rsvp";
 ]]></content>
   <tabTrigger>imrsvpAll</tabTrigger>
   <description>import { all } from "rsvp";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

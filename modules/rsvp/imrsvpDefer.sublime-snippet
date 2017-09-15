@@ -4,5 +4,5 @@ import { defer } from "rsvp";
 ]]></content>
   <tabTrigger>imrsvpDefer</tabTrigger>
   <description>import { defer } from "rsvp";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

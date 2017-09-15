@@ -4,5 +4,5 @@ import { isHtmlSafe } from "@ember/string";
 ]]></content>
   <tabTrigger>imisHtmlSafe</tabTrigger>
   <description>import { isHtmlSafe } from "@ember/string";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

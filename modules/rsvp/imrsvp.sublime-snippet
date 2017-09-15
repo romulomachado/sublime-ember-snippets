@@ -4,5 +4,5 @@ import RSVP from "rsvp";
 ]]></content>
   <tabTrigger>imrsvp</tabTrigger>
   <description>import RSVP from "rsvp";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

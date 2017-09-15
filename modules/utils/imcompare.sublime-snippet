@@ -4,5 +4,5 @@ import { compare } from "@ember/utils";
 ]]></content>
   <tabTrigger>imcompare</tabTrigger>
   <description>import { compare } from "@ember/utils";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -10,5 +10,5 @@ export default Service.extend({
 ]]></content>
   <tabTrigger>service</tabTrigger>
   <description>Service Skeleton</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

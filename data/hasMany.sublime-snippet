@@ -3,5 +3,5 @@
 hasMany('${1:string}'),
 ]]></content>
   <tabTrigger>hM</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

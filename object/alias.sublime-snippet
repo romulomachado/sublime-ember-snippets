@@ -3,5 +3,5 @@
 computed.alias('${1:property}')
 ]]></content>
   <tabTrigger>alias</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

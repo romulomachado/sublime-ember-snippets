@@ -4,5 +4,5 @@ import AutoLocation from "@ember/routing/auto-location";
 ]]></content>
   <tabTrigger>imautoLocation</tabTrigger>
   <description>import AutoLocation from "@ember/routing/auto-location";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -4,5 +4,5 @@ import { filter } from "rsvp";
 ]]></content>
   <tabTrigger>imrsvpFilter</tabTrigger>
   <description>import { filter } from "rsvp";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

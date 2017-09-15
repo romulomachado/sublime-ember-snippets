@@ -4,5 +4,5 @@ import EmberArray from "@ember/array";
 ]]></content>
   <tabTrigger>imarray</tabTrigger>
   <description>import EmberArray from "@ember/array";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -3,5 +3,5 @@
 ${1:enumerable}.filterBy('${2:property}', ${3:value});
 ]]></content>
   <tabTrigger>filterBy</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

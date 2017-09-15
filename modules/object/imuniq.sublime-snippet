@@ -4,6 +4,6 @@ import { uniq } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>imuniq</tabTrigger>
   <description>import { uniq } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

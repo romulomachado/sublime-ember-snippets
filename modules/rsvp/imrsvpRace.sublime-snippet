@@ -4,5 +4,5 @@ import { race } from "rsvp";
 ]]></content>
   <tabTrigger>imrsvpRace</tabTrigger>
   <description>import { race } from "rsvp";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

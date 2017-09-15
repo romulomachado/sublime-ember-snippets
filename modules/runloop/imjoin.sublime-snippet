@@ -4,5 +4,5 @@ import { join } from "@ember/runloop";
 ]]></content>
   <tabTrigger>imjoin</tabTrigger>
   <description>import { join } from "@ember/runloop";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

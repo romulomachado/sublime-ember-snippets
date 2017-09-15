@@ -3,5 +3,5 @@
 this.store.query('${1:model}', { ${2:queryKey}: ${3:queryValue}});
 ]]></content>
   <tabTrigger>qAll</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

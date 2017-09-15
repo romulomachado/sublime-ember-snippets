@@ -6,5 +6,5 @@ model(params = {}) {
 ]]></content>
   <tabTrigger>model</tabTrigger>
   <description>model()</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

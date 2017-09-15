@@ -4,5 +4,5 @@ import { debounce } from "@ember/runloop";
 ]]></content>
   <tabTrigger>imdebounce</tabTrigger>
   <description>import { debounce } from "@ember/runloop";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -5,5 +5,5 @@ andThen(() => {
 });
 ]]></content>
   <tabTrigger>andThen</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

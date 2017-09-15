@@ -4,5 +4,5 @@ import { addObserver } from "@ember/object/observers";
 ]]></content>
   <tabTrigger>imaddObserver</tabTrigger>
   <description>import { addObserver } from "@ember/object/observers";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

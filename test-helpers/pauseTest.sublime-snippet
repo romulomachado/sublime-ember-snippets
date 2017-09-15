@@ -3,5 +3,5 @@
 pauseTest();
 ]]></content>
   <tabTrigger>pause</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -4,5 +4,5 @@ import Application from "@ember/application";
 ]]></content>
   <tabTrigger>imapp</tabTrigger>
   <description>import Application from "@ember/application";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

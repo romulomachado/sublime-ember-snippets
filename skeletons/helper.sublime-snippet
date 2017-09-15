@@ -12,5 +12,5 @@ export default Helper.extend({
 ]]></content>
   <tabTrigger>helper</tabTrigger>
   <description>Helper Skeleton</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

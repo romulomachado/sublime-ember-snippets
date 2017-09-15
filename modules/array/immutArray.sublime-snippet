@@ -4,5 +4,5 @@ import MutableArray from "@ember/array/mutable";
 ]]></content>
   <tabTrigger>immutArray</tabTrigger>
   <description>import MutableArray from "@ember/array/mutable";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

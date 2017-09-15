@@ -4,6 +4,6 @@ import { union } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>imunion</tabTrigger>
   <description>import { union } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

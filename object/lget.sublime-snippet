@@ -3,5 +3,5 @@
 let $1 = ${2:this}.get('$1');
 ]]></content>
   <tabTrigger>lget</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

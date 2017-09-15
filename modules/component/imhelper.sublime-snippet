@@ -4,5 +4,5 @@ import Helper from "@ember/component/helper";
 ]]></content>
   <tabTrigger>imhelper</tabTrigger>
   <description>import Helper from "@ember/component/helper";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

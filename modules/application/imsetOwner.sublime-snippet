@@ -4,5 +4,5 @@ import { setOwner } from "@ember/application";
 ]]></content>
   <tabTrigger>imsetOwner</tabTrigger>
   <description>import { setOwner } from "@ember/application";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

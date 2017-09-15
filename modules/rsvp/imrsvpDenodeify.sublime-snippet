@@ -4,5 +4,5 @@ import { denodeify } from "rsvp";
 ]]></content>
   <tabTrigger>imrsvpDenodeify</tabTrigger>
   <description>import { denodeify } from "rsvp";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

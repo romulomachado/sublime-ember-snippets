@@ -4,5 +4,5 @@ import Resolver from "@ember/application/resolver";
 ]]></content>
   <tabTrigger>imresolver</tabTrigger>
   <description>import Resolver from "@ember/application/resolver";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

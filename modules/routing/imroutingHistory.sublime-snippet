@@ -4,5 +4,5 @@ import HistoryLocation from "@ember/routing/history-location";
 ]]></content>
   <tabTrigger>imroutingHistory</tabTrigger>
   <description>import HistoryLocation from "@ember/routing/history-location";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

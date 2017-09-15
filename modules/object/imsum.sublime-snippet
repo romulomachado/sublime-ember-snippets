@@ -4,6 +4,6 @@ import { sum } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>imsum</tabTrigger>
   <description>import { sum } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

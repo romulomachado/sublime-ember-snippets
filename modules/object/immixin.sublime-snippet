@@ -4,6 +4,6 @@ import Mixin from "@ember/object/mixin";
 ]]></content>
   <tabTrigger>immixin</tabTrigger>
   <description>import Mixin from "@ember/object/mixin";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

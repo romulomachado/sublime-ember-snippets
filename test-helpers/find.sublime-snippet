@@ -3,5 +3,5 @@
 find('${1:selector}', '${2:context}');
 ]]></content>
   <tabTrigger>find</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

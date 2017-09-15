@@ -3,5 +3,5 @@
 visit('${1:url}');
 ]]></content>
   <tabTrigger>visit</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

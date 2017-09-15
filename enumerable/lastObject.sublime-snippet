@@ -3,5 +3,5 @@
 ${1:enumerable}.get('lastObject');
 ]]></content>
   <tabTrigger>last</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

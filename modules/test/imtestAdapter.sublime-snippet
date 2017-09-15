@@ -4,5 +4,5 @@ import Test.Adapter from "@ember/test/adapter";
 ]]></content>
   <tabTrigger>imtestAdapter</tabTrigger>
   <description>import Test.Adapter from "@ember/test/adapter";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

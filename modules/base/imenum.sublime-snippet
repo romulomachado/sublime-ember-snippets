@@ -4,5 +4,5 @@ import Enumerable from "@ember/enumerable";
 ]]></content>
   <tabTrigger>imenum</tabTrigger>
   <description>import Enumerable from "@ember/enumerable";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

@@ -4,6 +4,6 @@ import { create } from "@ember/polyfills";
 ]]></content>
   <tabTrigger>impolyfillCreate</tabTrigger>
   <description>import { create } from "@ember/polyfills";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

@@ -4,5 +4,5 @@ import { off } from "rsvp";
 ]]></content>
   <tabTrigger>imrsvpOff</tabTrigger>
   <description>import { off } from "rsvp";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

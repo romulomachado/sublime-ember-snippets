@@ -4,5 +4,5 @@ import Observable from "@ember/object/observable";
 ]]></content>
   <tabTrigger>imobservable</tabTrigger>
   <description>import Observable from "@ember/object/observable";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

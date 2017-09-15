@@ -4,5 +4,5 @@ import { mapProperty } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>immapProperty</tabTrigger>
   <description>import { mapProperty } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

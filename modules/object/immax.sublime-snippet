@@ -4,6 +4,6 @@ import { max } from "@ember/object/computed";
 ]]></content>
   <tabTrigger>immax</tabTrigger>
   <description>import { max } from "@ember/object/computed";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

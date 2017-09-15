@@ -4,6 +4,6 @@ import { defineProperty } from "@ember/object";
 ]]></content>
   <tabTrigger>imobjecDefineProperty</tabTrigger>
   <description>import { defineProperty } from "@ember/object";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
 

@@ -4,5 +4,5 @@ import { later } from "@ember/runloop";
 ]]></content>
   <tabTrigger>imlater</tabTrigger>
   <description>import { later } from "@ember/runloop";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>

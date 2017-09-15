@@ -4,5 +4,5 @@ import { typeOf } from "@ember/utils";
 ]]></content>
   <tabTrigger>imtypeOf</tabTrigger>
   <description>import { typeOf } from "@ember/utils";</description>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts</scope>
 </snippet>
